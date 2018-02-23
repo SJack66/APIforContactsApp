@@ -1,0 +1,31 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Contact": 21
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Contact": {
+      "5": "{\"firstName\":\"Alicja\",\"lastName\":\"Wójcik\",\"phone\":\"605351232\",\"email\":\"ala.wojcik12@icloud.com\",\"addressPostCode\":\"43-123\",\"addressCity\":\"Wrocław\",\"addressStreet\":\"Poznańska 23/54\",\"id\":5}",
+      "6": "{\"id\":6,\"firstName\":\"Wojciech\",\"lastName\":\"Malinowski\",\"phone\":\"609987341\",\"email\":\"pawel.malina@my.com\",\"addressPostCode\":\"11-998\",\"addressCity\":\"Łódź\",\"addressStreet\":\"Szeroka 43\"}",
+      "7": "{\"firstName\":\"Sylwester\",\"lastName\":\"Jabłoński\",\"phone\":\"898001237\",\"email\":\"sylwek.jablonski@wp.pl\",\"addressPostCode\":\"20-112\",\"addressCity\":\"Lublin\",\"addressStreet\":\"Głęboka 15/66\",\"id\":7}",
+      "8": "{\"id\":8,\"firstName\":\"Izabela\",\"lastName\":\"Wilk\",\"phone\":\"765234121\",\"email\":\"marta.wilk34@onet.pl\",\"addressPostCode\":\"43-238\",\"addressCity\":\"Gdańsk\",\"addressStreet\":\"Sopocka 87\"}",
+      "9": "{\"firstName\":\"Jadwiga\",\"lastName\":\"Górska\",\"phone\":\"607654329\",\"email\":\"jadzia.gorska@gmail.com\",\"addressPostCode\":\"56-100\",\"addressCity\":\"Zakopane\",\"addressStreet\":\"Sopocka 87\",\"id\":9}",
+      "10": "{\"id\":10,\"firstName\":\"Jacek\",\"lastName\":\"Jackowski\",\"phone\":\"605432971\",\"email\":\"jacek.jackowski2@wp.pl\",\"addressPostCode\":\"13-235\",\"addressCity\":\"Włodawa\",\"addressStreet\":\"Jeziorna 98\"}",
+      "11": "{\"firstName\":\"Szczpan\",\"lastName\":\"Skowron\",\"phone\":\"702454784\",\"email\":\"szczepanskowron2@tlen.pl\",\"addressPostCode\":\"76-111\",\"addressCity\":\"Poznań\",\"addressStreet\":\"Powstańców 22/45\",\"id\":11}",
+      "12": "{\"firstName\":\"Monika\",\"lastName\":\"Zawiślak\",\"phone\":\"704555432\",\"email\":\"monika.zaw232@interia.pl\",\"addressPostCode\":\"44-542\",\"addressCity\":\"Olsztyn\",\"addressStreet\":\"Żeglarska 8\",\"id\":12}",
+      "13": "{\"firstName\":\"Anna\",\"lastName\":\"Zetowska\",\"phone\":\"787543231\",\"email\":\"anna.zetowska@o2.pl\",\"addressPostCode\":\"24-676\",\"addressCity\":\"Szczecin\",\"addressStreet\":\"Portowa 3\",\"id\":13}",
+      "17": "{\"firstName\":\"Damian\",\"lastName\":\"Piątek\",\"phone\":\"456945321\",\"email\":\"damian.piatek@wp.pl\",\"addressPostCode\":\"45-900\",\"addressCity\":\"Rzeszów\",\"addressStreet\":\"Bieszczadzka 34\",\"id\":17}",
+      "18": "{\"firstName\":\"Beata\",\"lastName\":\"Dorocińska\",\"phone\":\"345767457\",\"email\":\"beatka.dorocinska@gmail.com\",\"addressPostCode\":\"34-567\",\"addressCity\":\"Jelenia Góra\",\"addressStreet\":\"Graniczna 23/76\",\"id\":18}",
+      "20": "{\"firstName\":\"Anna\",\"lastName\":\"Wójcik\",\"phone\":\"456345345\",\"email\":\"anna.w@wp.pl\",\"addressPostCode\":\"09-300\",\"addressCity\":\"Poznań\",\"addressStreet\":\"Szeroka 12\",\"id\":20}"
+    }
+  }
+}
